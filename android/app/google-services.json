@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275261747662",
+    "project_id": "uidesign-a8b44",
+    "storage_bucket": "uidesign-a8b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275261747662:android:54d6411d03e16a4da23b9f",
+        "android_client_info": {
+          "package_name": "com.tatosintern.ui_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275261747662-2t1hf7fct0li37l6tjmkm4jm4h3448b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZknvikv_FWmZWDBk_PFzW9JEzD9_KoBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275261747662-2t1hf7fct0li37l6tjmkm4jm4h3448b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
